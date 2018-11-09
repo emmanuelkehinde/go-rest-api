@@ -4,3 +4,4 @@ A simple RESTful API written in golang (based on the [tutorial](https://tutorial
 
 To run the program:
 - Run ` go build && ./rest-api` in your terminal
+- Visit `localhost:8000/people` in your browser
